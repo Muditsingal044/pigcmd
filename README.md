@@ -10,5 +10,4 @@ https://drive.google.com/file/d/1BlX31fu0R-vYbrcHzNykUXI8WXBqVMo3/view?usp=drive
 .........................................................................................
 
 # CMD in Ubuntu -- (copy and paste in URL) --
-
-https://drive.google.com/file/d/1qXZtM6hgNLmVx0UPcbGG3CZwrGpYEVlG/view?usp=sharing
+https://drive.google.com/file/d/1msXZnMA1o4hNx-9DJMJnQfWxLEUrQ7gW/view?usp=sharing
